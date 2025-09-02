@@ -1,4 +1,517 @@
 <details>
+  <summary>
+    248 (Feb 7, 2024) – Strawberry Farm Festival & MapleStory X KONOSUBA
+  </summary>
+
+  ### World Selection Reorganization (UI)
+  - New world groups on the selection screen with hover descriptions:  
+    **Interactive** (Aurora, Bera, Elysium, Luna, Scania) · **Heroic** (Hyperion, Kronos, Solis) · **Seasonal** (event worlds like Burning).  
+  - Removed speech bubbles beside world buttons and the world-info bar above channel selection.
+
+  ### Field Changes (Instanced Sacred Power Hunting)
+  - In **Heroic** worlds, Sacred Power hunting maps are **instanced** (up to **2** players/map; monsters not shared).  
+  - No **Elites**, **Rune of Darkness/Riches**, or party play; if you die, your personalized mobs despawn until you re‑enter.  
+  - Global hunting perk: **Runes spawn more frequently** (other temporary perks from earlier New Age were removed later in the cycle).
+
+  ### Event — Spiegelette’s Strawberry Farm (Feb 7–Feb 20, UTC)
+  - **Eligibility:** Lv. **101–259** (Zero ≥ Chapter 2). Accept **[Strawberry Farm] Spiegelette’s Strawberry Farm** from the star notifier or Spiegelette (Henesys / Nameless Town / Cernium).  
+  - **Fertile Soil drops** from monsters ±20 levels; **cap 100/day per world** (shared across characters). Completing the **daily quest** gives rewards and **does not consume** your Soil.  
+  - **Enter the Farm** by spending **20 Fertile Soil** (no per‑day entry limit; solo only). Defeat **500 Ripe Strawberries in 15 min** for EXP that scales with level (EXP scales up to **Lv. 219**; HP scales up to **Lv. 259**).  
+  - **Re‑entry / switching characters:** You can re‑enter to finish remaining kills before **00:00 UTC**; if the character dings **260**, re‑entry is blocked. Spend **20 Soil** to reset progress or to enter on a **different** character.  
+  - **Daily Quest rewards highlight (per world):** frequent **2× EXP (15m)** coupons; notable items include **Strawberry Damage Skin** (Day 2, permanent via coupon) and **Harmonious Strawberry Farm Chair** (Day 10, permanent).
+
+  ### Event — Gold Richie’s Safe (Mar 6–Mar 19, UTC)
+  - **Tickets:** Get up to **400 Safe Tickets/day per world** from monsters ±20 levels (shared account‑wide per world).  
+  - **Daily quest:** Kill **2,000** near‑level mobs → **100 Tickets + 2× EXP (15m) ×2** (doesn’t count toward the 400 cap).  
+  - **How the Safe works:** Spend **100 Tickets** to enter a **round** (2 rounds/day: **00:00–11:59** and **12:00–23:59 UTC**). The **winning code** is the **smallest unique** submitted number that round; duplicates are discarded. **15 entries/round**, and you can participate in **one world per round**.
+
+  ### Burning World Leap (Feb 7–Feb 22, UTC)
+  - After maintenance, Burning characters move to **Burning Leap Zone**; talk to **Mover**.  
+  - Move up to **5** characters (Lv. **150+**; Zero ≥ Chapter 2) to **Interactive worlds** (Aurora, Bera, Elysium, Luna, Scania). Region‑locked.  
+  - Inventory/mesos move with the character; **Storage/AH/Cash Inv/Mail do not**. Leave/disband **Guild** first. Unleaped characters are **deleted** at period end. Sunlight/Wind Coins are tied to the **destination** world’s limits.
+
+  ### System — End of Jett Open Advancement
+  - Remaining **Jett** characters auto‑converted to **Beginner (Explorer)**; **Jett Legion block** removed from presets.  
+  - **Classic Jett** rankings archived; Jett secondaries no longer obtainable (existing ones remain).
+
+  ### Ongoing — Fairy Bros’ Golden Giveaway (Feb 7–Jun 11, UTC)
+  - **Lv. 101+**, 1‑hour daily login → weekly rewards; **Golden Pass** (3,000 MP) for missed days; **Special Pass** (29,800 MP) grants extra rewards every 3rd attendance.  
+  - Examples: **Pet selection** (Day 7: Lil Wonky or Lil Wave with equips), more rewards on Days 14, 21, etc. (account‑wide claim).
+
+  ### Collaboration — MapleStory X KONOSUBA (Feb 21–Mar 19, UTC)
+  - Accept **[KONOSUBA] The Appearance of a Strange Party** to unlock events:
+    - **Aqua’s Cheer (town buffs on the :30)** — even hours: **Aqua’s Nature’s Beauty** (**+15% EXP, 30m**); odd hours: **Axis Order Evangelism Time** (**+15 all stats, +1,500 HP/MP, +15 ATT/MATT, +15% Boss, +15% IED, 30m**). **Aqua Medal** for 10 days of participation (30‑day strong stats, then permanent reduced stats).  
+    - **Megumin’s Explosion Magic** — daily **5,000** near‑level kills to get **Strongest Magic** item; use to summon Megumin’s **Explosion** (**1,000% ×5 to up to 20 enemies every 2s for 10s**, bonus EXP). **Megumin Medal** after 10 completions (same medal stat pattern).  
+    - **Darkness’s Joyful Sacrifice** — one **auto‑revive/day** in boss maps with **full heal** and **10s i‑frames**; **Darkness Medal** after 10 activations (same medal stat pattern).  
+    - **Kazuma’s Small Fortune** — stay online **15 min** holding a parchment (up to **5×/day**) to redeem **Great Gift Boxes** (pool includes **cubes/flames**, **2× coupons**, **Spell Trace**, and **Aqua/Megumin/Darkness/Kazuma Totems**; also **collab title/chair/damage skin** once per world). **Kazuma Medal** after 50 participations.
+
+  ### Sunny Sundays & Spell Trace Fever
+  - **Sunny Sundays** throughout v248 deliver rotating perks (e.g., **Magnificent Soul** chance ups, **Ability** reset/Spell Trace discounts, **Rune/Combo/Monster Park EXP** boosts).  
+  - **Spell Trace Fever Time** (Interactive worlds): multiple windows on **Feb 23–25** with elevated enhancement success rates.
+
+  ### Bug Fixes (selection)
+  - Fixed visual/tooltip issues across skills and items (e.g., **HEXA Matrix** text box, **Gale Barrier Boost** duration, **Infinite Flame** Magic ATT value, **Night Walker – Shadow Bite Boost** cooldown).  
+  - Resolved pet/item description inconsistencies and UI alignment/layering problems (e.g., **Round Cat‑Eared Glasses**, **Lotusroid** pronoun, Auction House “ETC” label).  
+  - Fixed cases like meso payout when **Maple Tour** balance >100b, and Custom Title expiry pop‑ups interrupting gameplay.
+</details>
+<details>
+  <summary>
+    247 (Dec 13, 2023) – New Age: Into the Abyss
+  </summary>
+
+  ### New Boss Difficulties
+  - **Kalos the Guardian**
+    - Chaos → **Normal**; added **Extreme**.
+    - New Maple Rewards quests for first clears (Easy/Normal/Extreme); world-first and world‑specific clear messages.
+  - **Kaling**
+    - Added **Easy/Hard/Extreme**.
+    - New Maple Rewards quests for first clears (Easy/Hard/Extreme); world-first and world‑specific clear messages.
+
+  ### Region: Battleship Arteria (Lv. 280+) — Available Dec 13 (after maintenance)
+  - Start **[Arteria] To Maple World** from the notifier; complete story to receive **Sacred Symbol: Arteria**.
+  - Requirements: Lv. 280+, 5th Job, **[Shangri‑La] One Who Arrived in Paradise** completed.
+  - New maps include multiple **Bottom/Top Deck Passages**, **High Flora Armory**, **Command Room**, etc.
+  - New NPCs (e.g., **Neinheart, Oz, Irena, Eckhart, Claudine**); new Elite Boss: **High Flora Leader**.
+  - New medal during storyline: **Promise to Meet Again** (+ATT/MATT).
+  - EXP/Meso penalty cap tweak: for chars >289, penalty now calculated vs. **Lv. 294** (instead of 289).
+
+  ### Region: Carcion — The Cradle of Life (Lv. 285+) — Available Jan 10, 2024
+  - Start **[Carcion] An Absent Empress**; complete to receive **Sacred Symbol: Carcion**.
+  - Daily quest from **Duhan** awards **10 Carcion Symbols**.
+  - New zones (e.g., **Coastal Treeline, Giant Coral Colony, Sunken Ruins**), new NPCs (**Duhan, Eto, Hinya, Lopa**), Elite Boss **Abyss Guide**.
+  - New medal: **The Eternal Tree’s Guardian** (+ATT/MATT).
+  - EXP/Meso penalty cap tweak: for chars >294, penalty now calculated vs. **Lv. 299**.
+
+  ### Grand Athenaeum – Maple Chronicle
+  - **Book of Grandis – Battleship Arteria** added (unlocks after you’ve cleared the Arteria achievement on that world).
+
+  ### Content Improvements & Misc.
+  - **Maple Achievements**: new sets for **Arteria, Carcion, Kalos, Kaling** (incl. Extreme).
+  - **Monster Collection**: added High Flora/Carcion mobs; new **Abyss Guide Cube Chair**.
+  - **Momijigaoka** maps updated; **Hayato** skill rename (removed “God of Blades” suffix).
+
+  ### Event: Abyssal Expedition (Dec 20 – Feb 6, UTC) — per character (Lv. 101+, Zero ≥ Act 2)
+  - **Loop**: become **Expedition Captain** → earn **Reputation** → raise **Command Rank** → hire/gear **Mercenaries** → auto‑hunt stages for EXP/loot → clear timed **Abyss bosses**.
+  - **Mercenaries**
+    - Recruit via **Norman**; first two are **Joss & Nami**; more unlock by Command Rank.
+    - Ranks: **Basic/Intermediate/Advanced/Expert/Special** (hire costs scale by Reputation).
+    - Equip: **weapon/hat/outfit**; skill slots unlock at mercenary Lv. 5 & 10; some skills are job‑locked.
+    - **Relationships** between mercs grant effects (e.g., Family/Couple/Rival/Grudge).
+  - **Areas & Bosses**
+    - Stages: **Abyssal Entrance → Quiet Trails → Valley of Abyss → Cliff of Abyss → End of Abyss → Ancient Manon’s Forest**.
+    - Timed bosses (e.g., **Master/Dark Master Birk**, **Master Hoblin**, **Abyss Manon**): 10‑min fights, 4‑hr respawn/cooldown, **max 3 clears/day**.
+  - **Missions & Rewards**
+    - **Daily Missions** via Bulletin Board; **time‑based Expedition Reward** track (1–12 hr) for Support Boxes (Basic→Special).
+    - **Achievement chains** per area award: **Maple Expedition Growth Potions I–IV**, **Experience Nodestones**, **Symbol Selectors**, **Abyss Harp Mount**, and a **Legion Block (Minar Forest)** scaling up to **+35 ATT/MATT** at Lv. 250 (doesn’t consume Legion slots).
+  - **Shops (Abyss HQ)**
+    - **Vanessa**: early skills; post‑Jan 3 additional advanced skills (e.g., **Snipe, Quad Star**).
+    - **Doddy**: cosmetics; post‑Jan 3 **Absolab Weapon Box** purchasable with Reputation.
+
+  ### New Age Burning Events (Nov 15 – Feb 6, UTC)
+  - **Hyper Burning (to Lv. 260)** — 1 character/account; eligible for new or Lv. 200–258 chars (Zero must finish Act 2). Grants +2 levels per level to 260; extensive Growth/Milestone rewards.
+  - **Burning World** — “Burning” buff for all new chars, **Step Up** + **World Leap** (with restrictions on trading/Legion/etc.).
+
+  ### New Age Events — Identisk (Nov 15 – Feb 6, UTC)
+  - **Exploration**
+    - **Basic** (daily, per account): claim **Sunlight Coins** (500/day cap) and a 21‑day reward track (incl. ring selector, Enkiroid, VIP coupons, potions, chair).
+    - **In‑Depth** (3×/week, per world): defeat 2,000 near‑level mobs; earn **Identisk Points** (Iden/Tisk weeks differ); 24‑step weekly track with cubes/flames/potions.
+  - **Gift of Identisk (temp world‑shared skill)**
+    - Spend Identisk Points to level stats up to **Lv. 6** (e.g., up to **+30 ATT/MATT, +60 all stats, +40% Boss/IED/Normal**, **+60 Arcane**, **+15% EXP**, etc.). Ends Feb 6.
+  - **Tisk Food Storehouse (Dec 13 – Jan 9)**
+    - Solo instance for **Lv. 101–259** (Burning <260 allowed): **1,000 kills in 15 min**, 3 entries/week/world; **Sol Erda** spawns every 200 kills; resume allowed same day.
+  - **Coin Shops (to Feb 11)**
+    - **Sunlight Coin Shop** (weekly reset): functional items (pot scrolls, circulators, char slot, etc.).
+    - **Wind Coin Shop** (cap **1,200/week/world**): coins from weekly bosses (from Pierre C up to **Kaling/Kalos Extreme**).
+
+  ### Holiday Events
+  - **[Home] Maplemas** (Dec 13 – Dec 26): decorate to unlock **3‑story Maplemas Hut** blueprint (25 unique furnishings) and **Soft Snowman Bed** (23 furnishings); special shopping trips and Christmas‑day gift exchange.
+  - **Sunny Sundays** (Dec 17 → Feb 4): rotating perks (e.g., extra Monster Park EXP, Ability reset discounts, Magnificent Soul chances, +2 Star Force up to 10★).
+  - **Spell Trace Fever Time**: **Dec 22–24** & **Jan 26–28** at set UTC windows.
+
+  ### System: Instanced Sacred Power Hunting Zones (Reboot‑only during event)
+  - Removed from **regular** worlds Dec 13; preserved in **Reboot** worlds.
+  - Global hunting buffs meanwhile: more/faster **Runes**, more **portals**, bonus EXP on **Inferno Wolf** exit, reduced Rune cooldown.
+
+  ### Jett Job Transfer (Jul 27 – Feb 7)
+  - Remaining **Jett** characters must transfer to one of **15 Explorer** jobs; gear/stats/skills convert with special rules (Genesis weapons included).
+  - Non‑transferred Jetts become **Beginners** at event end; compensation packages and world‑wide rewards apply.
+
+  ### Bug Fixes (selection)
+  - Fixed: Phantom **Luck of the Draw** party cooldown buff; Kinesis **Ultimate: Deep Impact** movement at high attack speed; **Bonus Potential Cube** not dropping from **Will (Hard)**; bind resistance icon visuals; Hayato/Kanna SFX; numerous quest typos and UI/click‑box issues; high‑res pixel alignment; and more.
+
+</details>
+<details>
+  <summary>
+    246 (November 15, 2023) – New Age: 6th Job
+  </summary>
+
+  ### 6th Job Advancement & Hexa Matrix
+  - Introduced the **6th Job** (available November 29, UTC) for characters level 260+, after completing key 5th Job and Zero story prerequisites.  
+  - Added the **Hexa Matrix**, enabling advanced character progression and connection to new 6th Job skills.  
+    :contentReference[oaicite:1]{index=1}
+
+  ### New World: Identisk
+  - Debuted **Identisk**, a merged land blending Iden and Tisk islands. Features:
+    - **Iden Aqua Adventure**: an aquatic, exploration-based map.
+    - **Identisk Gift skill**: levelable ability that enhances character strength.
+    - **Sunlight Coin Shop** and **Wind Coin Shop** offering exclusive rewards.  
+    :contentReference[oaicite:2]{index=2}
+
+  ### Reboot World Updates
+  - Reboot worlds renamed:
+    - **NA**: Reboot Kronos
+    - **EU**: Reboot Solis  
+    :contentReference[oaicite:3]{index=3}
+  - Introduced new world: **Reboot Hyperion** (NA only), with Reboot mechanics.
+  - Adjusted mob HP/EXP and level-gap damage effects to match standard worlds (Aurora, etc.).  
+    :contentReference[oaicite:4]{index=4}
+
+  ### Hyper Burning & Burning World Events
+  - **Hyper Burning Event** (Nov 15 – Feb 6 UTC):
+    - Available for new or existing Lv. 200–258 characters.
+    - Leveling triggers two-level jumps per level until Lv. 260.
+    - Rewards include equipment boxes, titles (Eternal Flame, Infinite Flame), nodestones, Arcane Symbols, and outfit coupons.  
+      :contentReference[oaicite:5]{index=5}
+
+  - **Burning World** (same period):
+    - New temporary world where all characters created receive the “Burning” buff (massive stat boosts).
+    - Participation unlocks **Burning World Step Up** and **World Leap** opportunities with bonus rewards.  
+      :contentReference[oaicite:6]{index=6}
+
+  ### Additional Burning World Features
+  - **Mega Burning Project**:
+    - Allows up to 3 characters per account to receive enhanced leveling mechanics.
+    - Rewards available via limited-time quest.  
+  - **Burning World Restrictions**:
+    - No trading, link skills, Legion, or Monster Collection.
+    - Meso Market is available.
+    - Certain Cash Shop and Maple Rewards items are blocked.  
+      :contentReference[oaicite:7]{index=7}
+
+  ### New Age Zero to One Hundred
+  - Event for characters Lv. 10–100 (excluding Zero), providing early progression boosts.
+  - Rewards include themed chairs and cosmetic items via achievement quests.  
+    :contentReference[oaicite:8]{index=8}
+</details>
+<details>
+  <summary>
+    245 (October 4, 2023) – Midnight Carnival: Nautilus
+  </summary>
+
+  ### Night Troupe Halloween Festival Returns
+  - The popular **Night Troupe event** is back for Halloween, bringing festive decorations and seasonal gameplay in Nautilus.  
+    :contentReference[oaicite:1]{index=1}
+
+  - **Midnight Carnival event** includes weekly rank progression—advance to “Master Designer” to unlock special missions and rewards.  
+    :contentReference[oaicite:2]{index=2}
+
+  ### Hidden Missions & Event Rewards
+  - A set of **5 hidden missions** becomes available upon reaching Master Designer.  
+    :contentReference[oaicite:3]{index=3}
+
+    - **Hidden Mission 1** grants a **costume selection coupon**, letting players choose one of two permanent pirate-themed costumes:
+      - **Spiegelmann path**: Required interactions include Rolonay (get Toy Duckling) and Water Filter (get Fried Shrimp Bite), then return to Spiegelmann to receive coupon.
+      - **Kyrin path**: Involves Bonney (Firewood) and Mrs. Reade (Dark Rash’s Furball), then return to Kyrin for the coupon.  
+        :contentReference[oaicite:4]{index=4}
+
+    - **Hidden Missions 2–5** reward special chairs:
+      - **Tangyoon’s chairs**: Refresh until “I'm full” chair appears; after one hour AFK, you get a permanent chair.
+      - **Black Bark’s “Eating” chair**: AFK for 8 hours to receive it.
+      - **Spiegella’s chairs**: Immediate “Potion Drinking” chair, then after 8 hours AFK, receive “Elixir Drinking” chair.  
+        :contentReference[oaicite:5]{index=5}
+
+  ### New Gameplay Features
+  - The update introduces a **permanent secondary pendant slot** for all characters to equip additional pendants.  
+    :contentReference[oaicite:6]{index=6}
+
+  ### Festival Enhancements & Decorations
+  - New **blueprints and Halloween-themed decorations** are added as part of the festival, enabling players to expand their in-game Halloween Manors into full three-story houses.  
+    :contentReference[oaicite:7]{index=7}
+
+  ### Summary of Core Features
+  - **Night Troupe Festival** revival with seasonal event content  
+  - **Master Designer progression**, unlocking hidden missions and exclusive cosmetic rewards  
+  - **Hidden missions** with pirate costume coupon and special chairs  
+  - **Permanent secondary pendant slot**  
+  - **Halloween Manor expansion** via blueprints and decorations  
+</details>
+<details>
+  <summary>
+    244 (August 20, 2025) – NEXT III: UI Revamp and Improvements
+  </summary>
+
+  ### UI Revamp, Improvements & Error Fixes
+  - **Equipment Enhancement UI Consolidation**: All enhancement menus (Star Force, Scroll, Flames, Potential, etc.) unified into a single interface for seamless workflow.  
+  - **Tooltip Display Enhancements**:  
+    - Emoticon tooltips now show the emoticon’s name.  
+    - Equipment icons and repro details reorganized (e.g., stats, compatibility, enhancements re-ordered for clarity).  
+  - **Chat & Navigation Enhancements**:  
+    - Double-click character in character selection UI to change character.  
+    - Dialogue tabs in chat auto-hide when exceeding window width.  
+    - Min-width for chat window reduced for better layout flexibility.  
+  - **Quick Menu & Hotkey Improvements**:  
+    - Quick menu slot positions editable; full-menu “Quick Menu” integrated.  
+    - Hotkey UI updated: categorized, with drag-and-drop rearrangement and swap on click.  
+    - Quick slot settings expanded: size customization (from 4×2 to 16×2), output options, lock functionality.  
+  - **Login & Character UI Updates**:  
+    - Anonymous login settings now saved per PC, shared across account.  
+    - Better messaging: character creation/deletion notices, theme setting on select screen, clearer page navigation.  
+  - **Inventory & Deco UI Overhaul**:  
+    - Deco inventory expanded (up to 256 slots), with filter by rank (Master/Special/Red/Black label) and set ordering.  
+    - New inventory search function with autocomplete.  
+    - Unified backpack UI combines recipe, soul, scrolls, chairs, etc., into one managing panel (up to 5 backpacks).  
+  - **Miscellaneous UI Upgrades**:  
+    - Pet tooltip now shows level, fullness, and skills on right-click.  
+    - Refined notification system: fewer pop-ups, unified inbox, streamlined invites/friend alerts.  
+    - Symbol tab auto-opens to highest level.  
+    - Toolbox improvements: trade price refresh, deco tab filters, better item highlight and new-item effects.  
+  - **Setting & UI Behavior Improvements**:  
+    - Resolution minimum raised to 1366×768 (with exceptions for legacy views).  
+    - Equipment appearance, listed items (Android, pets, titles) managed via revamped UI.  
+    - Unified enhancements animation with optional skip, with better logic for selecting scrolls/restores.  
+    - Item durability mostly removed; support simplified names (“scroll”, “parchment”).  
+    - Golden Hammer system removed—items retroactively treated as if enhanced.  
+    - Tooltip and enhancement interfaces redesigned for clarity (ordered, grouped, reformatted).  
+    - Hotfixes include fixes to emoticon duplication, UI lag, log-in glitches, misaligned UI elements, Union Champion mismatches, chat display errors, Sol Erda UI persistence, and more.  
+      :contentReference[oaicite:1]{index=1}
+
+  ### Quest, NPC & Map Improvements
+  - Fixed errors such as:
+    - Syl’s room auto-teleport when accepting the Dual Blade 3rd job.  
+    - Duplicate dialogue in "[Moonbridge] Tag Along With Nineheart".  
+    - Kaiser Awakening quest icon misplacement.  
+    - Monster spawn in Epic Dungeon’s Angler Company stage.  
+    - World map NPC search errors (e.g., Pantheon navigation).  
+    - Elite Champion behaviors and certain map backgrounds.  
+    - Arcane River cutscenes now have voice acting.  
+      :contentReference[oaicite:2]{index=2}
+
+  ### Event Improvements & Fixes
+  - Punch King event UI polished: “Spiegella’s Golden Tomato Punch King” ticket tooltip, entry icon, and guide text all improved for clarity.  
+    :contentReference[oaicite:3]{index=3}
+</details>
+<details>
+  <summary>
+    243 (July 7, 2025) – NEXT II
+  </summary>
+
+  ### Princess Nou Revamp
+  - Removed all prerequisites (floors 1–4): speak to Ayame to be automatically teleported to the 5F Main Hall for the boss fight.  
+  - Increased entry level from level 140 to level 180; story quest requirement removed.  
+  - Revised boss mechanics with stronger and more refined attack patterns.  
+  - Princess Nou's HP greatly increased; Akechi Mitsuhide's difficulty also heightened.  
+  - Enhanced rewards:  
+    - Princess Nou Glowing Soul now sells for 25 million Mesos; Akechi Mitsuhide's Glowing Soul for 33 million Mesos.  
+    - New Kanna’s Treasure item: untradeable when equipped; cannot equip alongside the original version.  
+    - Platinum Scissors of Karma can transfer enhancements from an original (destroyed) Kanna’s Treasure to the new one.  
+    - Set effects from Kanna’s, Hayato’s, and Ayame’s Treasures have been removed.  
+      :contentReference[oaicite:1]{index=1}
+
+  ### Princess Nou Story Quest Revamp
+  - Level requirement raised from level 140 to 180; related map entry levels adjusted accordingly.  
+  - EXP rewards altered; no longer grants Kanna’s Treasure.  
+  - Now awards **The Star of Hieizan** medal instead.  
+  - Difficulty of herb-related quests reduced.  
+  - The previously exclusive skill from the quest has been removed.  
+    :contentReference[oaicite:2]{index=2}
+
+  ### Mushroom Shrine Revamp
+  - Surrounding fields reworked for thematic alignment, improved flow, and added intermediary maps for leveling.  
+  - Monster drops adjusted to reflect higher level ranges.  
+  - No longer required to access Princess Nou; exclusive skill removed.  
+  - NPC shops now include new decorative items (Etc items):  
+    - Blushful Orange Mushroom Doll  
+    - Sad Orange Mushroom Doll  
+    - Blushing Horny Mushroom Doll  
+    - Sleepy Green Mushroom Doll  
+    - Angry Blue Mushdad Doll  
+      :contentReference[oaicite:3]{index=3}
+
+  ### 6th Job: New Mastery Core
+  - Introduced Mastery Cores 3 and 4 for all classes via the HEXA Matrix.  
+  - Examples of new skills per class:  
+    - **Hero**: Aura Blade VI / Furious Edge; Incising VI / Final Attack VI / Valhalla VI  
+    - **Paladin**: Sanctuary VI; Final Attack VI / Rising Justice  
+    - **Bishop**: Angelic Touch VI / Fountain of Angel VI / Bahamut VI; Genesis VI / Heaven’s Door VI  
+    - **Pathfinder**: Cardinal Transition VI / Edge of Resonance VI / Ancient Astra VI; Raven VI / Combo Assault VI / Relic Materialize  
+    - **Aran**: Hyper Boost End – Last Stand VI; Frozen Ground VI / Adrenaline Maximum VI / Final Attack VI  
+    - And many more across all classes including Evan, Luminous, Flame Wizard, etc.  
+      :contentReference[oaicite:4]{index=4}
+
+  ### Union Champion System
+  - Introduced a new layer of progression with **Union Champions**:  
+    - Eligible for characters level 260+, with Union rank Grand Master I or higher, after completing a specified quest.  
+  - Up to three Champion slots available; unlocking via achieving Rank A in the first two.  
+  - Champions cannot be deleted or have their class changed.  
+  - **Champion Evaluation Matches**:  
+    - Rank up from C to SSS through matches against opponents via NPC Sir Hamcelot.  
+    - Champions receive shared stat boosts via **Champion Insignia**:  
+      - Rank B → All Stats +20, HP +1,000  
+      - Rank A → ATT / MATT +10  
+      - Rank S → Boss Damage +5%  
+      - Rank SS → Critical Damage +3%  
+      - Rank SSS → Ignore DEF +5%  
+      :contentReference[oaicite:5]{index=5}
+
+  ### Champion Raid: Dragon Island
+  - Accessed via the Union Champion UI. Includes six stages with 10 missions each, consisting of normal fights and boss encounters.  
+  - Rewards (Champion Coins, points) based on performance; monthly reset.  
+  - Mechanics include bonds and climate stacks; special UI for claiming rewards.  
+  - Features a **Champion’s Protection Buff**, customizable for 30 minutes using Champion Coins, with selectable enhancements up to five levels (e.g., All Stats, ATT, Boss Damage, EXP).  
+    :contentReference[oaicite:6]{index=6}
+</details>
+<details>
+  <summary>
+    242 (June 3, 2025) – NEXT: A Better Maple Improvements
+  </summary>
+
+  - **Skill Sequence System**:  
+    - Added a Skill Sequence UI to record and activate multiple skills with one hotkey.  
+    - Supports presets, exclusive animations, and handles cooldowns gracefully.  
+
+  - **Monster Park Improvements**:  
+    - Monster Park Extreme is now weekly (cleared with 2 characters per world).  
+    - EXP increased by 400%; Sunday EXP bonuses removed.  
+    - Medal challenge conditions reduced from 77 daily clears to 30 or 3 extremes.  
+
+  - **Epic Dungeon Enhancements**:  
+    - Two types of Epic Dungeon clears allowed per MapleID.  
+    - Quick pass now unlocked after clearing story quest.  
+    - Bonus reward points now per character, reset weekly (Thursday); pre-patch points preserved.  
+
+  - **Sol Erda Conversion System**:  
+    - Convert 1 Sol Erda into 30 Faint Sol Erda Energy or 1 HEXA Booster.  
+    - Converted items expire at midnight the next day.  
+
+  - **Content Participation & Quest Improvements**:  
+    - Changed Genesis Weapon Liberation to use Trace of Darkness from Black Mage afterimages.  
+    - Profession access raised to level 100; Zero must complete specific story chapter.  
+
+  - **Story Quest & Skip Updates**:  
+    - Arcane River & Grandis story skip expanded across MapleID; rewards preserved (but EXP omitted).  
+    - Added skip options for Root Abyss and other boss prerequisites.  
+
+  - **Arcane River Quest Rework**:  
+    - Dimensional Library temporarily restricted.  
+    - Road to Extinction reset with new quests added.  
+    - Story updates and quest tweaks across Reverse City, Chew Chew, Yum Yum, Lacheln, Arcana, Moras, and Limen.  
+
+  - **Symbol Quest Improvements**:  
+    - Reduced kill requirements and cooldowns for Grandis daily quests.  
+    - Symbol Quickpass costs decreased.  
+    - Arcane River symbol reward increased from 15 to 40 per clear.  
+
+  - **Crystal with Strong Power Limit**:  
+    - Weekly sell limit reduced from 180 to 90.  
+
+  - **Cross-World Boss Content – Dimensional Battlefield**:  
+    - Players at level 260+ can party across worlds to fight bosses (Lotus Extreme, Black Mage, etc.).  
+    - Certain UIs and functions disabled within the battlefield.  
+    - Limited item restrictions apply; rewards claimable via boss reward tab.  
+
+  - **Boss Reward Distribution System**:  
+    - New “Distribute” mode randomly assigns drops to participants.  
+    - Crystal with Strong Power still awarded to all.  
+    - Rewards shown in special UI; claimable via storage.  
+
+  - **Maple Gold Coin Improvements**:  
+    - Epic Dungeon and coupon Maple Gold Coins now expire after 7 days.  
+    - Currency exchange times adjusted (from 9:50–9:55 AM to 9:55–10:05 AM).  
+
+  - **Cross-World Maple Auction**:  
+    - Unified auction into two groups of worlds for equipment and Cash items trading.  
+    - 10% Maple Point commission applied to cross-world purchases; UI reflects world labels and pricing.  
+
+  - **Chat & UI Enhancements**:  
+    - Modernized chat UI with settings, emoticon auto-play, and 24 text color options.  
+    - Improved Quest UI, Minimap, World Map, emoji support, hotkey settings, medal/title UIs, and navigation.  
+
+  - **Union & AI Improvements**:  
+    - Union attack units improved.  
+    - Smart AI corrections implemented.  
+</details>
+<details>
+  <summary>
+    241 (May 3, 2023) – Maple Momentree (18th Anniversary)
+  </summary>
+
+  - 18th Anniversary Story Event: Maple Momentree and its spirits Rith & Ellie  
+  - Growth Journal: Track Momentree's growth progress  
+  - Memory Token Collection: Participate in Memory Token activities  
+  - Power Up! Cooking Collection: Cook nutritious food for the spirits  
+  - Mole Hunting mini‑game at the base of the Momentree  
+  - Memory Token Exchange: Trade for rewards via Lion Coin (Lion Coin event part)  
+  - Cash Inventory Transfer Event announced (coming in June)  
+  - Dormant Guild Removal to free up guild names
+</details>
+<details>
+  <summary>
+    240 (Mar 22, 2023) – Double Trouble Recharge
+  </summary>
+
+  - Limited-Time Class Revival: Pink Bean and Yeti return as playable classes  
+  - New Event World: Super Yeti × Pink Bean World (exclusive event world for those classes)  
+  - Event-Specific Skill: “Yeti × Pink Bean” buff—EXP +1.5x, Weapon/Magic ATT +30, +30% damage to normal monsters, +30% Boss Damage  
+  - New Class Skills:
+    - Yeti receives “Spirit of El Nath”  
+    - Pink Bean receives “Triple Color Spotlight”  
+  - Cosmetic Customization: Pink Bean’s color can be changed (once per hour) via Maple Admin  
+  - Event Mechanics:
+    - Only Yeti and Pink Bean characters allowed in Super Yeti × Pink Bean World  
+    - Characters can only be created/deleted once per region  
+    - Upon reaching level 200, access to Arcane River via event notifier  
+  - Restrictions: Yeti and Pink Bean cannot use—trading, storage, Auction House, Meso Market, picking up others’ drops, Ursus, Heliseum quests, Marriage, Profession, Black Heaven, Heroes of Maple, Guild, Ghost Park, Legion, Monster Life, Maple Tour, Mu Lung Dojo rankings, Nodestone usage, certain chairs/mounts, Fairy Bros daily gift, Cash Shop access, and some login reward events  
+  - Event Duration: March 22 (post-maintenance) to May 3, 2:00 PM UTC  
+  - Step-Up Mission System:
+    - 17 sequential missions per class (Yeti/Pink Bean) with character-specific and account-wide rewards  
+    - Missions must be completed in order and started/claimed via Step Up UI  
+  - Title Rewards:
+    - Yeti: “Yeti Incredi” — STR/DEX/INT/LUK +10, Weapon ATT/Magic ATT +5, Boss Damage +10% (via coupon, 7-day, account tradeable, title untradeable)  
+    - Pink Bean: “Holy Pink Beanity” — similar title rewards  
+    - Completing both titles on the same character allows combining them into “Yeti × Pink Bean” title (the original titles are removed)  
+    - Yeti/Pink Bean event rewards per character; account rewards per account  
+    - Title claiming deadlines: Titles—until May 2, 2023 11:59 PM UTC; Account rewards—until May 16, 2023 11:59 PM UTC  
+  - Mercedes Class Fix: Node enhancement effect now applies correctly to Ice Spirit of Elemental Knights (bug fix)
+</details>
+<details>
+  <summary>
+    239 (Feb 7, 2023) – Neo Tokyo
+  </summary>
+
+  - New Story Event: Neo Tokyo storyline introduction with Zipangu theme  
+  - New World/Event: Neo Tokyo area and quests  
+  - Limited-Time Growth Buff: Super Haste (daily hunting and progression buffs)  
+  - Design Event: Maple “Hashtag Chair” creation in Maple Hashtag event  
+  - Reward Event: Fairy Bros' Golden Giveaway check-in rewards  
+  - Cube Changes: Replacement of current Cubes with new Cube system  
+  - Bug Fix: Beast Tamer’s Guardian Leap causing UI transparency fixed  
+  - Hotfix: Fixed issue with Ponycheleu NPC appearing as Admin during Neo Tokyo dialogue  
+  - Hotfix: Fixed issue with Captain Marishas NPC mentioning a Meso Shop (not in Neo Tokyo)  
+  - Hotfix: Cube Fragments exchange in Reboot world disabled  
+  - Hotfix: Players from Ignition Fireworks Festival can access shops again
+</details>
+<details>
+  <summary>
+    238 (Dec 14, 2022)
+  </summary>
+
+  - Hyper Burning (Character Option and Rewards)  
+  - Mega Burning Project (multiple Burning characters)  
+  - Ignition Highlight (Hourly buffs + DJ Selena performances)  
+  - Ignition Coin Shop (Ignition Coins reward shop)  
+  - Ignition Meso Shop (Meso‑based shop items)  
+  - Flare Coin Shop (Flare Coins reward shop)  
+  - Boss Extreme Mode: Extreme Black Mage & Extreme Chosen Seren  
+  - New Achievements & Maple Rewards quests for Extreme bosses  
+  - New content: Odium area (Awakened Laboratory)  
+  - Crafting improvements? (Clover Store, Cube duration changes, refund policy)  
+  - Other changes: Clover Store limited worlds, Cube duration adjustments, Kanna fix, Monster Park Extreme totems fix  
+  - Bug Fixes (various UI, audio, and performance fixes)  
+  - Red/Black Cubes in Reboot world now have 90‑day duration, refunds available  
+  - Hyper Ignition events: Wonky the Fairy’s Hyper Time & Blake’s Hyper Ignition Game  
+  - Spell Trace Fever Time event (discounts & bonuses)  
+</details>
+<details>
      <summary>
             237 (Nov 15, 2022)
      </summary>
